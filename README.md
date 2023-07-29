@@ -22,6 +22,7 @@
 9. Déplacez le fichier cpp.txt vers /enset/bddc et vérifier si le fichier est bien déplacé.
     
 10. Supprimez les fichiers java.txt et cpp.txt dans HDFS.
+    
  ![1](https://github.com/HoumamAmine/Examen_BigData/assets/117035681/da5218b4-13a9-42eb-b5d7-0d49c659926d)
 ![2](https://github.com/HoumamAmine/Examen_BigData/assets/117035681/012ebcc5-043e-4c1e-8499-c08f0b6104c4)
 ![3](https://github.com/HoumamAmine/Examen_BigData/assets/117035681/f85b6a60-33b6-4d6f-b91b-e5e7951571ce)
